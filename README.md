@@ -78,7 +78,7 @@ I'm continuing to deepen my full-stack skills while exploring AI API and LLM int
 
 <div align="center">
 
-<a href="https://github.com/sankalpio" title="GitHub"><img src="https://img.shields.io/badge/GitHub-sankalp010-242424?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/sankalpio" title="GitHub"><img src="https://img.shields.io/badge/GitHub-sankalpio-242424?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
